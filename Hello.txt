@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 print("Hello, world!>>")
 print("How do you do?>>")
-=======
-print("Hello, world!")
-
-print("How do you do?")
-print("Glad to see you")
->>>>>>> refs/remotes/origin/goodbye
+print("Glad to see you>>")
